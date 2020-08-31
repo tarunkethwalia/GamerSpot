@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MongoUrl": "mongodb+srv://gamerboy_dev:gamerspot123@gamerspot.w8asb.mongodb.net/dev?retryWrites=true&w=majority"
+    }
+}
