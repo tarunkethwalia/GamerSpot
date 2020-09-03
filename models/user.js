@@ -18,7 +18,7 @@ const userSchema = new Schema({
     Followers : {type: [Schema.Types.String]},
     Following : {type: [Schema.Types.String]},
     Notifications : {type: [Schema.Types.String]},
-    EventsTypeOnine : {type: [Object]},
+    EventsTypeOnline : {type: [Object]},
     EventsTypeOffline : {type: [Object]},
     Orders : {type: [Object]},
     Subscription : {type: Schema.Types.ObjectId, ref: subscription}
