@@ -6,8 +6,6 @@ const subscriptionSchema = new Schema({
     AccountStatus: {type: Schema.Types.String, default: 'Trial'}
 }, {timestamps: true});
 
-const subscription = mongoose.model('Subscription', subscriptionSchema);
-
 const userSchema = new Schema({
     Username : {type: Schema.Types.String, required: true},
     Password : {type: Schema.Types.String, required: true},
@@ -21,7 +19,7 @@ const userSchema = new Schema({
     EventsTypeOnline : {type: [Object]},
     EventsTypeOffline : {type: [Object]},
     Orders : {type: [Object]},
-    Subscription : {type: Schema.Types.ObjectId, ref: subscription}
+    Subscription : subscriptionSchema
 }, {timestamps: true});
 
 module.exports = mongoose.model('User', userSchema);

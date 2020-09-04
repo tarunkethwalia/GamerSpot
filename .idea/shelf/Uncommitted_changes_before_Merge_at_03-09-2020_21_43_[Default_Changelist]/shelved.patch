@@ -1,0 +1,111 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c33a7643-591e-40de-be2e-0c1c28662f4c\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1gixtlcQXrYn9xGNBBrCGp3pZ4b\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"javascript.nodejs.core.library.configured.version\" value=\"12.18.3\" />\r\n    <property name=\"javascript.nodejs.core.library.typings.version\" value=\"12.12.54\" />\r\n    <property name=\"last_opened_file_path\" value=\"C:/Program Files/nodejs/node.exe\" />\r\n    <property name=\"nodejs_interpreter_path\" value=\"C:/Program Files/nodejs/node\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"dev\" type=\"js.build_tools.npm\" nameIsGenerated=\"true\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"dev\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c33a7643-591e-40de-be2e-0c1c28662f4c\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1598611431084</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1598611431084</updated>\r\n      <workItem from=\"1598611432144\" duration=\"1717000\" />\r\n      <workItem from=\"1598613335407\" duration=\"701000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"450\" y=\"172\" key=\"#Node.js_and_NPM\" timestamp=\"1598612898230\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state x=\"450\" y=\"172\" key=\"#Node.js_and_NPM/0.0.1463.783@0.0.1463.783\" timestamp=\"1598612898230\" />\r\n    <state x=\"187\" y=\"46\" width=\"1089\" height=\"714\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1598613131538\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state x=\"187\" y=\"46\" width=\"1089\" height=\"714\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.783@0.0.1463.783\" timestamp=\"1598613131538\" />\r\n    <state x=\"571\" y=\"92\" key=\"FileChooserDialogImpl\" timestamp=\"1598612893218\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state x=\"571\" y=\"92\" key=\"FileChooserDialogImpl/0.0.1463.783@0.0.1463.783\" timestamp=\"1598612893218\" />\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1598614046250\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783\" timestamp=\"1598614046250\" />\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.center\" timestamp=\"1598614046250\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783\" timestamp=\"1598614046250\" />\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.left\" timestamp=\"1598614046250\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783\" timestamp=\"1598614046250\" />\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.right\" timestamp=\"1598614046250\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state width=\"1442\" height=\"197\" key=\"GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783\" timestamp=\"1598614046250\" />\r\n    <state x=\"241\" y=\"36\" key=\"SettingsEditor\" timestamp=\"1598612847545\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state x=\"241\" y=\"36\" key=\"SettingsEditor/0.0.1463.783@0.0.1463.783\" timestamp=\"1598612847545\" />\r\n    <state x=\"454\" y=\"202\" key=\"jetbrains.nodejs.interpreters-dialog\" timestamp=\"1598612894577\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state x=\"454\" y=\"202\" key=\"jetbrains.nodejs.interpreters-dialog/0.0.1463.783@0.0.1463.783\" timestamp=\"1598612894577\" />\r\n    <state x=\"394\" y=\"104\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1598613018136\">\r\n      <screen x=\"0\" y=\"0\" width=\"1463\" height=\"783\" />\r\n    </state>\r\n    <state x=\"394\" y=\"104\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1463.783@0.0.1463.783\" timestamp=\"1598613018136\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a85e4c30f51036765254eb1a95765775bde7b987)
++++ .idea/workspace.xml	(date 1599149566976)
+@@ -1,5 +1,23 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:virgil" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
+   <component name="ChangeListManager">
+     <list default="true" id="c33a7643-591e-40de-be2e-0c1c28662f4c" name="Default Changelist" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -13,6 +31,14 @@
+         <option value="JavaScript File" />
+       </list>
+     </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectId" id="1gixtlcQXrYn9xGNBBrCGp3pZ4b" />
+   <component name="ProjectViewState">
+@@ -21,10 +47,12 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
++    <property name="dart.analysis.tool.window.visible" value="false" />
++    <property name="javascript.nodejs.core.library.configured.version" value="12.16.2" />
+     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+-    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+     <property name="nodejs_package_manager_path" value="npm" />
+     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+@@ -41,7 +69,10 @@
+       <method v="2" />
+     </configuration>
+   </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
++  <component name="SvnConfiguration">
++    <configuration />
++  </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="c33a7643-591e-40de-be2e-0c1c28662f4c" name="Default Changelist" comment="" />
+@@ -51,11 +82,23 @@
+       <updated>1598611431084</updated>
+       <workItem from="1598611432144" duration="1717000" />
+       <workItem from="1598613335407" duration="701000" />
++      <workItem from="1598879103583" duration="115000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
++    <option name="version" value="2" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="WindowStateProjectService">
+     <state x="450" y="172" key="#Node.js_and_NPM" timestamp="1598612898230">
+@@ -90,6 +133,10 @@
+       <screen x="0" y="0" width="1463" height="783" />
+     </state>
+     <state x="241" y="36" key="SettingsEditor/0.0.1463.783@0.0.1463.783" timestamp="1598612847545" />
++    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598879191268">
++      <screen x="0" y="0" width="1366" height="728" />
++    </state>
++    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598879191268" />
+     <state x="454" y="202" key="jetbrains.nodejs.interpreters-dialog" timestamp="1598612894577">
+       <screen x="0" y="0" width="1463" height="783" />
+     </state>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c33a7643-591e-40de-be2e-0c1c28662f4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -30,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
     <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
@@ -49,7 +54,10 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c33a7643-591e-40de-be2e-0c1c28662f4c" name="Default Changelist" comment="" />
@@ -68,6 +76,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="450" y="172" key="#Node.js_and_NPM" timestamp="1598612898230">
       <screen x="0" y="0" width="1463" height="783" />
@@ -77,28 +97,36 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="187" y="46" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.783@0.0.1463.783" timestamp="1598613131538" />
+    <state x="129" y="55" width="1092" height="610" key="DiffContextDialog" timestamp="1599150030608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" width="1092" height="610" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1599150030608" />
     <state x="571" y="92" key="FileChooserDialogImpl" timestamp="1598612893218">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="571" y="92" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1598612893218" />
-    <state width="2539" height="445" key="GridCell.Tab.0.bottom" timestamp="1599135307779">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1599165116962">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599165116962" />
     <state width="1442" height="197" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1598614046250" />
     <state width="2539" height="445" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1599135307779" />
-    <state width="2539" height="445" key="GridCell.Tab.0.center" timestamp="1599135307779">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1599165116962">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599165116962" />
     <state width="1442" height="197" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1598614046250" />
     <state width="2539" height="445" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1599135307779" />
-    <state width="2539" height="445" key="GridCell.Tab.0.left" timestamp="1599135307779">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1599165116962">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599165116962" />
     <state width="1442" height="197" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1598614046250" />
     <state width="2539" height="445" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1599135307779" />
-    <state width="2539" height="445" key="GridCell.Tab.0.right" timestamp="1599135307779">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1599165116962">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599165116962" />
     <state width="1442" height="197" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1598614046250" />
     <state width="2539" height="445" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1599135307779" />
     <state x="241" y="36" key="SettingsEditor" timestamp="1598612847545">

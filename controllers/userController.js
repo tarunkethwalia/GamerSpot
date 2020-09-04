@@ -38,24 +38,27 @@ exports.Login = (req, res) => {
 
 exports.SignUp = (req, res) => {
 
-    const data = Users.find({PhoneNo:req.body.PhoneNo});
-    if(data.length>0){
-        res.status(400).json({message: "PhoneNo already taken"});
-    }
-    else{
-        let SignUpUser = new Users({
-            Username : req.body.Username,
-            Password : req.body.Password,
-            PhoneNo : req.body.PhoneNo,
-
-        });
-        SignUpUser.save().then(result=>{
-            res.send({message: 'Successfully Saved', result});
-        }).catch(err => {
-            console.log(err);
-            res.status(400).send({message: 'Validation Errors', Errors: err})
-        });
-
-    }
+    Users.find({PhoneNo: req.body.PhoneNo}).then(data => {
+        if(data.length > 0){
+            res.status(400).send({message: "PhoneNo already taken"});
+        }
+        else{
+            let SignUpUser = new Users({
+                Username : req.body.Username,
+                Password : req.body.Password,
+                PhoneNo : req.body.PhoneNo,
+                Subscription : {
+                    AccountType: req.body.AccountType
+                }
+            });
+            SignUpUser.save().then(result=>{
+                res.status(200).send({message: 'Successfully Saved', result});
+            }).catch(err => {
+                res.status(400).send({message: 'Validation Errors', Errors: err})
+            });
+        }
+    }).catch(err => {
+        res.status(500).send({message: 'Server Error', Errors: err});
+    });
 
 };
